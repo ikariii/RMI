@@ -1,0 +1,5 @@
+Tom 76 1
+Marry 55 0
+Andy 95 1
+Kim 68 1
+Ann 88 1
